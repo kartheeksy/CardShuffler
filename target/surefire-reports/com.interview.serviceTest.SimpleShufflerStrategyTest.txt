@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.interview.serviceTest.SimpleShufflerStrategyTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec - in com.interview.serviceTest.SimpleShufflerStrategyTest

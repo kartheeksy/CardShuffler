@@ -1,0 +1,5 @@
+com\interview\repositoryTest\JPARepositoryTest.class
+com\interview\serviceTest\CardShufflerServiceTest.class
+com\interview\serviceTest\SimpleShufflerStrategyTest.class
+com\interview\serviceTest\ComplexShufflerStrategyTest.class
+com\interview\controllerTest\CardShufflerControllerTest.class
