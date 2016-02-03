@@ -1,4 +1,4 @@
-# NikeProj
-This Project can be used as an Sample for using Spring-Boot with inmemory datbase and Spring-Data .
+# CardShuffler
+This Project Can be used as a sample spring boot project which exposes REST API"S with Connectivity to in memory DB HSQLDB
 
-For Documentation about this project please refer the Documentation Folder .
+FOr more details Please read the Documents provided in Documents folder 
