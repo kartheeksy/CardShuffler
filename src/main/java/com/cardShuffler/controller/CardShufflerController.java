@@ -1,16 +1,3 @@
-/*package com.interview;
-
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-@SpringBootApplication
-public class NikeCodeInterviewApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(NikeCodeInterviewApplication.class, args);
-	}
-}
-*/
 
 package com.cardShuffler.controller;
 
